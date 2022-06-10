@@ -1,4 +1,4 @@
-const client_id = "1ehfxv1k25tbndd8vu530cgw7ekaw3";
+const client_id = "tce80z5hwjozh6ijqwcc6p9tvskcah";
 
 function appendCSS(type, name) {
     $("<link/>", {
