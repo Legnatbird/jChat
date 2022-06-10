@@ -1,3 +1,5 @@
+const client_id = "1ehfxv1k25tbndd8vu530cgw7ekaw3";
+
 function appendCSS(type, name) {
     $("<link/>", {
         rel: "stylesheet",
