@@ -1,2 +1,2 @@
-const client_id = 'tce80z5hwjozh6ijqwcc6p9tvskcah';
-const credentials = '6pn8zuyu96ovyyzhjbwkv975sbebxe';
+const client_id = 'nbx8j0t8jsrcz32tbk485zv86otv7l';
+const credentials = 'f1c38ie3k3g3g7x4fq5qww1e7gc8ty';
