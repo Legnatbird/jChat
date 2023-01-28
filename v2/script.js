@@ -46,7 +46,6 @@ function myAPI(url) {
         beforeSend: function(request) {
             request.setRequestHeader("Client-Id", "gp762nuuoqcoxypju8c569th9wz7q5");
             request.setRequestHeader("Authorization", "Bearer 63mgdg7ap7p566ho7vda5arg3gj5jf");
-            request.setRequestHeader("Access-Control-Allow-Origin", "*");
         },
         dataType: "json",
         url: "https://api.twitch.tv/helix" + url
